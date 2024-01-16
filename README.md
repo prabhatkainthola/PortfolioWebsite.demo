@@ -1,7 +1,9 @@
 >>>>>Overview
+
 Welcome to my personal portfolio! This project showcases my skills, projects, and experiences in a digital format. It serves as a hub for anyone interested in learning more about me and my work.
 
 >>>>>Features
+
 ->Sleek Design: A modern and visually appealing design that highlights professionalism and creativity.
 ->Responsive Layout: Optimized for various devices to ensure a seamless user experience.
 ->Portfolio Showcase: An organized display of my projects with detailed descriptions and, in some cases, live demos.
